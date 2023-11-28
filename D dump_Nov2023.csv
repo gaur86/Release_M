@@ -1,0 +1,235 @@
+﻿Product Name,Parents Release_Final,Design Element_Rel Num,Release Type,Milestone,Roadmap_MonthYear,YearMonth_number,Date_Roadmap,Roadmap_Year,ReleaseType_Milestone,Release Type_Short,Status
+Product A,Product A  22 [CNF],22,Main Release,C9,Feb-2024,22024,28-02-2024 00:00,2024,MR C9,MR,Forecast
+Product A,Product A  22 [CNF],22.8,Feature Package,C3,Jul-2022,72022,26-07-2022 00:00,2022,FP C3,FP,Forecast
+Product A,Product A  22 [CNF],22,Main Release,C10,Aug-2024,82024,31-08-2024 00:00,2024,MR C10,MR,Forecast
+Product A,Product A  22 [CNF],22.8,Feature Package,C5,Sep-2022,92022,26-09-2022 00:00,2022,FP C5,FP,Approved
+Product A,Product A  22 [CNF],22,Main Release,C7,Nov-2022,112022,30-11-2022 00:00,2022,MR C7,MR,Forecast
+Product A,Product A  22 [CNF],22,Main Release,C8,Nov-2023,112023,30-11-2023 00:00,2023,MR C8,MR,Forecast
+Product A,Product A  23 [CNF],23.2,Feature Package,C3,Jan-2023,12023,19-01-2023 00:00,2023,FP C3,FP,Forecast
+Product A,Product A  23 [CNF],23.2,Feature Package,C5,Mar-2023,32023,06-03-2023 00:00,2023,FP C5,FP,Approved
+Product A,Product A  23 [CNF],23,Main Release,C1,Sep-2022,92022,29-09-2022 00:00,2022,MR C1,MR,Approved
+Product A,Product A  23 [CNF],23,Main Release,C3,Oct-2022,102022,26-10-2022 00:00,2022,MR C3,MR,Forecast
+Product A,Product A  23 [CNF],23,Main Release,C5,Dec-2022,122022,15-12-2022 00:00,2022,MR C5,MR,Forecast
+Product A,Product A 21,21.8 SP2203,Service Package (Roadmapped),C3,Feb-2022,22022,24-02-2022 00:00,2022,SP C3,SP,Forecast
+Product A,Product A 21,21.8 SP2203,Service Package (Roadmapped),C5,Mar-2022,32022,31-03-2022 00:00,2022,SP C5,SP,Forecast
+Product A,Product A 21,21.8 SP2206,Service Package (Roadmapped),C3,May-2022,52022,26-05-2022 00:00,2022,SP C3,SP,Forecast
+Product A,Product A 21,21.8 SP2206,Service Package (Roadmapped),C5,Jun-2022,62022,30-06-2022 00:00,2022,SP C5,SP,Forecast
+Product A,Product A 21,21.8 SP2209,Service Package (Roadmapped),C3,Sep-2022,92022,16-09-2022 00:00,2022,SP C3,SP,Approved
+Product A,Product A 21,21.8 SP2209,Service Package (Roadmapped),C5,Sep-2022,92022,28-09-2022 00:00,2022,SP C5,SP,Forecast
+Product A,Product A 22,22.5,Update Release,C1,Jan-2022,12022,27-01-2022 00:00,2022,UR C1,UR,Approved
+Product A,Product A 22,22,Main Release,C9,Feb-2024,22024,28-02-2024 00:00,2024,MR C9,MR,Forecast
+Product A,Product A 22,22.5,Update Release,C3,Apr-2022,42022,07-04-2022 00:00,2022,UR C3,UR,Approved
+Product A,Product A 22,22.5,Update Release,C5,May-2022,52022,31-05-2022 00:00,2022,UR C5,UR,Forecast
+Product A,Product A 22,22.8,Feature Package,C3,Jul-2022,72022,14-07-2022 00:00,2022,FP C3,FP,Forecast
+Product A,Product A 22,22,Main Release,C10,Aug-2024,82024,31-08-2024 00:00,2024,MR C10,MR,Forecast
+Product A,Product A 22,22.8,Feature Package,C5,Sep-2022,92022,02-09-2022 00:00,2022,FP C5,FP,Forecast
+Product A,Product A 22,22.8 SP2212,Service Package (Roadmapped),C3,Nov-2022,112022,17-11-2022 00:00,2022,SP C3,SP,Approved
+Product A,Product A 22,22,Main Release,C7,Nov-2022,112022,30-11-2022 00:00,2022,MR C7,MR,Forecast
+Product A,Product A 22,22,Main Release,C8,Nov-2023,112023,30-11-2023 00:00,2023,MR C8,MR,Approved
+Product A,Product A 22,22.8 SP2212,Service Package (Roadmapped),C5,Dec-2022,122022,16-12-2022 00:00,2022,SP C5,SP,Forecast
+Product A,Product A 23,23.2,Feature Package,C3,Jan-2023,12023,17-01-2023 00:00,2023,FP C3,FP,Approved
+Product A,Product A 23,23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product A,Product A 23,23,Main Release,C1,Sep-2022,92022,23-09-2022 00:00,2022,MR C1,MR,Forecast
+Product A,Product A 23,23,Main Release,C3,Oct-2022,102022,13-10-2022 00:00,2022,MR C3,MR,Forecast
+Product A,Product A 23,23,Main Release,C5,Nov-2022,112022,30-11-2022 00:00,2022,MR C5,MR,Approved
+Product B,Product B 22,22.5,Update Release,C2,Jan-2022,12022,25-01-2022 00:00,2022,UR C2,UR,Approved
+Product B,Product B 22,22.5,Update Release,C3,Mar-2022,32022,08-03-2022 00:00,2022,UR C3,UR,Approved
+Product B,Product B 22,22.8,Update Release,C3,Apr-2022,42022,15-04-2022 00:00,2022,UR C3,UR,Approved
+Product B,Product B 22,22.5,Update Release,C5,May-2022,52022,20-05-2022 00:00,2022,UR C5,UR,Forecast
+Product B,Product B 22,22.5,Update Release,CP,May-2022,52022,20-05-2022 00:00,2022,UR CP,UR,Forecast
+Product B,Product B 22,22.8,Update Release,C5,Aug-2022,82022,26-08-2022 00:00,2022,UR C5,UR,Approved
+Product B,Product B 23,23.2,Feature Package,CT,Jan-2023,12023,20-01-2023 00:00,2023,FP CT,FP,Forecast
+Product B,Product B 23,23.2,Feature Package,C5,Feb-2023,22023,24-02-2023 00:00,2023,FP C5,FP,Forecast
+Product B,Product B 23,23,Main Release,C3,Jul-2022,72022,08-07-2022 00:00,2022,MR C3,MR,Forecast
+Product B,Product B 23,23.2,Feature Package,C3,Oct-2022,102022,21-10-2022 00:00,2022,FP C3,FP,Approved
+Product B,Product B 23,23,Main Release,CT,Oct-2022,102022,28-10-2022 00:00,2022,MR CT,MR,Forecast
+Product B,Product B 23,23,Main Release,C5,Nov-2022,112022,18-11-2022 00:00,2022,MR C5,MR,Forecast
+Product C,Product C FP2,FP2,Feature Package,C3,Jan-2022,12022,26-01-2022 00:00,2022,FP C3,FP,Forecast
+Product C,Product C FP2,FP2,Feature Package,CCD,Feb-2022,22022,17-02-2022 00:00,2022,FP CCD,FP,Approved
+Product C,Product C FP2,FP2,Feature Package,CP,Mar-2022,32022,08-03-2022 00:00,2022,FP CP,FP,Approved
+Product C,Product C FP2,FP2,Feature Package,C5,Apr-2022,42022,29-04-2022 00:00,2022,FP C5,FP,Forecast
+Product C,Product C FP3,FP3,Feature Package,C3,Jun-2022,62022,23-06-2022 00:00,2022,FP C3,FP,Approved
+Product C,Product C FP3,FP3,Feature Package,C5,Aug-2022,82022,04-08-2022 00:00,2022,FP C5,FP,Approved
+Product C,Product C FP4,FP4,Feature Package,C3,Feb-2023,22023,14-02-2023 00:00,2023,FP C3,FP,Forecast
+Product C,Product C FP4,FP4,Feature Package,C5,Mar-2023,32023,17-03-2023 00:00,2023,FP C5,FP,Forecast
+Product E,Product E 22,22.5,Feature Package,C3,Apr-2022,42022,04-04-2022 00:00,2022,FP C3,FP,Forecast
+Product E,Product E 22,22.5,Feature Package,C5,Jun-2022,62022,03-06-2022 00:00,2022,FP C5,FP,Forecast
+Product E,Product E 22,22.8,Feature Package,C3,Jul-2022,72022,04-07-2022 00:00,2022,FP C3,FP,Approved
+Product E,Product E 22,22.8,Feature Package,C5,Aug-2022,82022,31-08-2022 00:00,2022,FP C5,FP,Approved
+Product E,Product E 23,23.2,Feature Package,C3,Jan-2023,12023,13-01-2023 00:00,2023,FP C3,FP,Forecast
+Product E,Product E 23,23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Approved
+Product E,Product E 23,23,Main Release,C1,Sep-2022,92022,20-09-2022 00:00,2022,MR C1,MR,Forecast
+Product E,Product E 23,23,Main Release,C3,Oct-2022,102022,12-10-2022 00:00,2022,MR C3,MR,Forecast
+Product E,Product E 23,23,Main Release,C5,Dec-2022,122022,02-12-2022 00:00,2022,MR C5,MR,Forecast
+Product D,Product F  22 [CNF],22.8,Feature Package,C3,Jul-2022,72022,04-07-2022 00:00,2022,FP C3,FP,Forecast
+Product D,Product F  22 [CNF],22.8,Feature Package,C5,Sep-2022,92022,09-09-2022 00:00,2022,FP C5,FP,Forecast
+Product D,Product F  23,23.2,Feature Package,C3,Jan-2023,12023,13-01-2023 00:00,2023,FP C3,FP,Forecast
+Product D,Product F  23 [CNF],23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product F,Product F 22,22.5,Feature Package,C3,Mar-2022,32022,31-03-2022 00:00,2022,FP C3,FP,Forecast
+Product F,Product F 22,22.5,Feature Package,C5,Jun-2022,62022,02-06-2022 00:00,2022,FP C5,FP,Forecast
+Product F,Product F 22,22.8,Feature Package,C3,Jul-2022,72022,04-07-2022 00:00,2022,FP C3,FP,Forecast
+Product F,Product F 22,22.8,Feature Package,C5,Sep-2022,92022,09-09-2022 00:00,2022,FP C5,FP,Forecast
+Product F,Product F 23,FP2,Feature Package,C3,Jan-2023,12023,13-01-2023 00:00,2023,FP C3,FP,Approved
+Product F,Product F 23,160546 <.0 FP=:>()</>,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product F,Product F 23,23,Main Release,C1,Oct-2022,102022,18-10-2022 00:00,2022,MR C1,MR,Forecast
+Product F,Product F 23,23,Main Release,C3,Oct-2022,102022,18-10-2022 00:00,2022,MR C3,MR,Forecast
+Product F,Product F 23,23,Main Release,C5,Nov-2022,112022,30-11-2022 00:00,2022,MR C5,MR,Approved
+Product F,Product F 23 [CNF],23,Main Release,C1,Oct-2022,102022,18-10-2022 00:00,2022,MR C1,MR,Forecast
+Product F,Product F 23 [CNF],23,Main Release,C3,Oct-2022,102022,18-10-2022 00:00,2022,MR C3,MR,Forecast
+Product F,Product F 23 [CNF],23,Main Release,C5,Dec-2022,122022,01-12-2022 00:00,2022,MR C5,MR,Approved
+Product G,Product G 22,22.5 FP5,Feature Package,C3,Mar-2022,32022,29-03-2022 00:00,2022,FP C3,FP,Approved
+Product G,Product G 22,22.5 FP5,Feature Package,C5,Jun-2022,62022,03-06-2022 00:00,2022,FP C5,FP,Approved
+Product G,Product G 22,22.8 FP4,Feature Package,C3,Jul-2022,72022,22-07-2022 00:00,2022,FP C3,FP,Forecast
+Product G,Product G 22,22.8 FP5,Feature Package,C3,Jul-2022,72022,22-07-2022 00:00,2022,FP C3,FP,Approved
+Product G,Product G 22,22.8,Feature Package,C3,Jul-2022,72022,22-07-2022 00:00,2022,FP C3,FP,Forecast
+Product G,Product G 22,22.8 FP4,Feature Package,C5,Sep-2022,92022,01-09-2022 00:00,2022,FP C5,FP,Forecast
+Product G,Product G 22,22.8 FP5,Feature Package,C5,Sep-2022,92022,01-09-2022 00:00,2022,FP C5,FP,Approved
+Product G,Product G 22,22.8,Feature Package,C5,Sep-2022,92022,30-09-2022 00:00,2022,FP C5,FP,Forecast
+Product G,Product G 23,23.2,Feature Package,C3,Jan-2023,12023,13-01-2023 00:00,2023,FP C3,FP,Forecast
+Product G,Product G 23,23.2,Feature Package,C3,Jan-2023,12023,15-01-2023 00:00,2023,FP C3,FP,Forecast
+Product G,Product G 23,23,Main Release,C1,Oct-2022,102022,03-10-2022 00:00,2022,MR C1,MR,Approved
+Product G,Product G 23,23,Main Release,C3,Oct-2022,102022,31-10-2022 00:00,2022,MR C3,MR,Approved
+Product G,Product G 23 [CNF],23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Approved
+Product G,Product G 23 [CNF],23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product G,Product G 23 [CNF],23,Main Release,C5,Dec-2022,122022,02-12-2022 00:00,2022,MR C5,MR,Forecast
+Product G,Product G 23 [CNF],23,Main Release,C5,Dec-2022,122022,02-12-2022 00:00,2022,MR C5,MR,Approved
+Product H,Product H 22,22.5,Feature Package,C3,Mar-2022,32022,31-03-2022 00:00,2022,FP C3,FP,Approved
+Product H,Product H 22,22.8,Feature Package,C3,Jun-2022,62022,30-06-2022 00:00,2022,FP C3,FP,Forecast
+Product H,Product H 22,22.5,Feature Package,C5,Jun-2022,62022,02-06-2022 00:00,2022,FP C5,FP,Forecast
+Product H,Product H 22,22.8,Feature Package,C5,Aug-2022,82022,31-08-2022 00:00,2022,FP C5,FP,Forecast
+Product H,Product H 23,23.2,Feature Package,C3,Jan-2023,12023,26-01-2023 00:00,2023,FP C3,FP,Forecast
+Product H,Product H 23,23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Approved
+Product H,Product H 23,23,Main Release,C1,Oct-2022,102022,13-10-2022 00:00,2022,MR C1,MR,Forecast
+Product H,Product H 23,23,Main Release,C3,Oct-2022,102022,13-10-2022 00:00,2022,MR C3,MR,Forecast
+Product H,Product H 23,23,Main Release,C5,Dec-2022,122022,02-12-2022 00:00,2022,MR C5,MR,Approved
+Product I,Product I  20 [CNF],20.8,Main Release,C10,Aug-2022,82022,31-08-2022 00:00,2022,MR C10,MR,Forecast
+Product I,Product I  22 [CNF],22.5,Feature Package,C3,Apr-2022,42022,04-04-2022 00:00,2022,FP C3,FP,Approved
+Product I,Product I  22 [CNF],22.5,Feature Package,C5,Jun-2022,62022,03-06-2022 00:00,2022,FP C5,FP,Forecast
+Product I,Product I  22 [CNF],22.8,Feature Package,C3,Jul-2022,72022,04-07-2022 00:00,2022,FP C3,FP,Approved
+Product I,Product I  22 [CNF],22.8,Feature Package,C5,Aug-2022,82022,31-08-2022 00:00,2022,FP C5,FP,Forecast
+Product I,Product I  23 [CNF],23.2,Feature Package,C3,Jan-2023,12023,13-01-2023 00:00,2023,FP C3,FP,Approved
+Product I,Product I  23 [CNF],23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product I,Product I  23 [CNF],23,Main Release,C1,Sep-2022,92022,20-09-2022 00:00,2022,MR C1,MR,Approved
+Product I,Product I  23 [CNF],23,Main Release,C3,Oct-2022,102022,12-10-2022 00:00,2022,MR C3,MR,Approved
+Product I,Product I  23 [CNF],23,Main Release,C5,Dec-2022,122022,02-12-2022 00:00,2022,MR C5,MR,Forecast
+Product J,Product I 22,22.5,Feature Package,C3,Apr-2022,42022,04-04-2022 00:00,2022,FP C3,FP,Forecast
+Product J,Product I 22,22.5,Feature Package,C5,May-2022,52022,31-05-2022 00:00,2022,FP C5,FP,Approved
+Product J,Product I 22,22.8,Feature Package,C3,Jul-2022,72022,04-07-2022 00:00,2022,FP C3,FP,Forecast
+Product J,Product I 22,22.8,Feature Package,C5,Aug-2022,82022,31-08-2022 00:00,2022,FP C5,FP,Forecast
+Product J,Product I 23,23.2,Feature Package,C3,Jan-2023,12023,13-01-2023 00:00,2023,FP C3,FP,Forecast
+Product J,Product I 23,23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Approved
+Product J,Product I 23,23,Main Release,C1,Sep-2022,92022,20-09-2022 00:00,2022,MR C1,MR,Forecast
+Product J,Product I 23,23,Main Release,C3,Oct-2022,102022,12-10-2022 00:00,2022,MR C3,MR,Forecast
+Product J,Product I 23,23,Main Release,C5,Nov-2022,112022,29-11-2022 00:00,2022,MR C5,MR,Forecast
+Product K,Product K 22,22.5,Feature Package,C3,Apr-2022,42022,13-04-2022 00:00,2022,FP C3,FP,Forecast
+Product K,Product K 22,22.5,Feature Package,C5,Jun-2022,62022,05-06-2022 00:00,2022,FP C5,FP,Approved
+Product K,Product K 22,22.8,Feature Package,C3,Jul-2022,72022,08-07-2022 00:00,2022,FP C3,FP,Forecast
+Product K,Product K 22,22.8,Feature Package,C5,Sep-2022,92022,09-09-2022 00:00,2022,FP C5,FP,Approved
+Product K,Product K 23,23.2,Feature Package,C3,Jan-2023,12023,20-01-2023 00:00,2023,FP C3,FP,Approved
+Product K,Product K 23,23.2,Feature Package,C3,Jan-2023,12023,20-01-2023 00:00,2023,FP C3,FP,Approved
+Product K,Product K 23 [CNF],23.2,Feature Package,C5,Mar-2023,32023,07-03-2023 00:00,2023,FP C5,FP,Forecast
+Product K,Product K 23 [CNF],23,Main Release,C1,Sep-2022,92022,27-09-2022 00:00,2022,MR C1,MR,Approved
+Product K,Product K 23 [CNF],23,Main Release,C3,Oct-2022,102022,14-10-2022 00:00,2022,MR C3,MR,Approved
+Product K,Product K 23 [CNF],23,Main Release,C5,Dec-2022,122022,15-12-2022 00:00,2022,MR C5,MR,Forecast
+Product K,Product K 23 [VNF],23.2,Feature Package,C5,Mar-2023,32023,07-03-2023 00:00,2023,FP C5,FP,Forecast
+Product K,Product K 23 [VNF],23,Main Release,C1,Sep-2022,92022,23-09-2022 00:00,2022,MR C1,MR,Forecast
+Product K,Product K 23 [VNF],23,Main Release,C3,Oct-2022,102022,14-10-2022 00:00,2022,MR C3,MR,Forecast
+Product K,Product K 23 [VNF],23,Main Release,C5,Dec-2022,122022,09-12-2022 00:00,2022,MR C5,MR,Approved
+Product L,Product L 22 [CNF],22.5,Feature Package,C3,Apr-2022,42022,01-04-2022 00:00,2022,FP C3,FP,Forecast
+Product L,Product L 22 [CNF],22.5,Feature Package,C5,Jun-2022,62022,03-06-2022 00:00,2022,FP C5,FP,Forecast
+Product L,Product L 22 [CNF],22.8,Feature Package,C3,Jul-2022,72022,21-07-2022 00:00,2022,FP C3,FP,Forecast
+Product L,Product L 22 [CNF],22.8,Feature Package,C5,Sep-2022,92022,01-09-2022 00:00,2022,FP C5,FP,Approved
+Product L,Product L 22 [VNF],22.5,Feature Package,C3,Apr-2022,42022,01-04-2022 00:00,2022,FP C3,FP,Approved
+Product L,Product L 22 [VNF],22.5,Feature Package,C5,Jun-2022,62022,03-06-2022 00:00,2022,FP C5,FP,Forecast
+Product L,Product L 22 [VNF],22.8,Feature Package,C3,Jul-2022,72022,08-07-2022 00:00,2022,FP C3,FP,Approved
+Product L,Product L 22 [VNF],22.8,Feature Package,C5,Sep-2022,92022,01-09-2022 00:00,2022,FP C5,FP,Forecast
+Product L,Product L 23,23,Main Release,C1,Sep-2022,92022,20-09-2022 00:00,2022,MR C1,MR,Forecast
+Product L,Product L 23,23,Main Release,C3,Oct-2022,102022,20-10-2022 00:00,2022,MR C3,MR,Forecast
+Product L,Product L 23,23,Main Release,C5,Dec-2022,122022,08-12-2022 00:00,2022,MR C5,MR,Forecast
+Product L,Product L 23 [CNF],23.2,Feature Package,C3,Jan-2023,12023,11-01-2023 00:00,2023,FP C3,FP,Approved
+Product L,Product L 23 [CNF],23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product L,Product L 23 [VNF],23.2,Feature Package,C3,Jan-2023,12023,11-01-2023 00:00,2023,FP C3,FP,Forecast
+Product L,Product L 23 [VNF],23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Approved
+Product M,Product M 22,22.8,Feature Package,C3,Jun-2022,62022,27-06-2022 00:00,2022,FP C3,FP,Forecast
+Product M,Product M 22,22.8,Feature Package,C5,Aug-2022,82022,31-08-2022 00:00,2022,FP C5,FP,Approved
+Product M,Product M 22 [CNF],22.5,Feature Package,C3,Apr-2022,42022,07-04-2022 00:00,2022,FP C3,FP,Forecast
+Product M,Product M 22 [CNF],22.8,Feature Package,C3,Jun-2022,62022,27-06-2022 00:00,2022,FP C3,FP,Approved
+Product M,Product M 22 [CNF],22.5,Feature Package,C5,Jun-2022,62022,03-06-2022 00:00,2022,FP C5,FP,Forecast
+Product M,Product M 22 [CNF],22.8,Feature Package,C5,Aug-2022,82022,31-08-2022 00:00,2022,FP C5,FP,Forecast
+Product M,Product M 23,23.2,Feature Package,C3,Jan-2023,12023,13-01-2023 00:00,2023,FP C3,FP,Forecast
+Product M,Product M 23,23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product M,Product M 23,23,Main Release,C1,Sep-2022,92022,20-09-2022 00:00,2022,MR C1,MR,Approved
+Product M,Product M 23,23,Main Release,C3,Oct-2022,102022,12-10-2022 00:00,2022,MR C3,MR,Approved
+Product M,Product M 23,23,Main Release,C5,Nov-2022,112022,29-11-2022 00:00,2022,MR C5,MR,Forecast
+Product M,Product M 23 [CNF],23.2,Feature Package,C3,Jan-2023,12023,13-01-2023 00:00,2023,FP C3,FP,Forecast
+Product M,Product M 23 [CNF],23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product M,Product M 23 [CNF],23,Main Release,C1,Sep-2022,92022,20-09-2022 00:00,2022,MR C1,MR,Forecast
+Product M,Product M 23 [CNF],23,Main Release,C3,Oct-2022,102022,12-10-2022 00:00,2022,MR C3,MR,Forecast
+Product M,Product M 23 [CNF],23,Main Release,C5,Dec-2022,122022,02-12-2022 00:00,2022,MR C5,MR,Approved
+Product N,Product N 21 [CNF],21.8 FP2203,Feature Package,C3,Mar-2022,32022,09-03-2022 00:00,2022,FP C3,FP,Forecast
+Product N,Product N 21 [CNF],21.8 FP2203,Feature Package,C5,Apr-2022,42022,01-04-2022 00:00,2022,FP C5,FP,Forecast
+Product O,Product O 22,FP1,Feature Package,C5,Jan-2023,12023,19-01-2023 00:00,2023,FP C5,FP,Forecast
+Product O,Product O 22,FP1,Feature Package,CCD,Jan-2023,12023,09-01-2023 00:00,2023,FP CCD,FP,Approved
+Product O,Product O 22,FP1,Feature Package,C3,Oct-2022,102022,20-10-2022 00:00,2022,FP C3,FP,Forecast
+Product P,Product P 22,22.12,Feature Package,C5,Jan-2023,12023,31-01-2023 00:00,2023,FP C5,FP,Forecast
+Product P,Product P 22,22.7,Feature Package,C3,May-2022,52022,31-05-2022 00:00,2022,FP C3,FP,Approved
+Product P,Product P 22,22.7,Feature Package,C5,Aug-2022,82022,01-08-2022 00:00,2022,FP C5,FP,Forecast
+Product P,Product P 22,22.12,Feature Package,C3,Nov-2022,112022,02-11-2022 00:00,2022,FP C3,FP,Forecast
+Product Q,Product Q 22,FP1,Feature Package,C3,Feb-2022,22022,08-02-2022 00:00,2022,FP C3,FP,Approved
+Product Q,Product Q 22,FP1,Feature Package,C5,Mar-2022,32022,14-03-2022 00:00,2022,FP C5,FP,Forecast
+Product Q,Product Q 23,23,Main Release,C1,May-2022,52022,12-05-2022 00:00,2022,MR C1,MR,Approved
+Product Q,Product Q 23,23,Main Release,C3,May-2022,52022,12-05-2022 00:00,2022,MR C3,MR,Forecast
+Product Q,Product Q 23,23,Main Release,C5,Sep-2022,92022,02-09-2022 00:00,2022,MR C5,MR,Approved
+Product X,Product Q 23,23.0 FP1,Feature Package,C3,Nov-2022,112022,16-11-2022 00:00,2022,FP C3,FP,Forecast
+Product X,Product Q 23,23.0 FP1,Feature Package,C5,Dec-2022,122022,16-12-2022 00:00,2022,FP C5,FP,Forecast
+Product R,Product R 22,22.5,Feature Package,C3,Mar-2022,32022,28-03-2022 00:00,2022,FP C3,FP,Approved
+Product R,Product R 22,22.8,Feature Package,C3,Jun-2022,62022,28-06-2022 00:00,2022,FP C3,FP,Forecast
+Product R,Product R 22,22.5,Feature Package,C5,Jun-2022,62022,09-06-2022 00:00,2022,FP C5,FP,Approved
+Product R,Product R 22,22.8,Feature Package,C5,Aug-2022,82022,29-08-2022 00:00,2022,FP C5,FP,Approved
+Product R,Product R 22 [CNF],22.8,Feature Package,C3,Jun-2022,62022,28-06-2022 00:00,2022,FP C3,FP,Forecast
+Product R,Product R 22 [CNF],22.8,Feature Package,C5,Aug-2022,82022,29-08-2022 00:00,2022,FP C5,FP,Forecast
+Product R,Product R 23,23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product R,Product R 23,23,Main Release,C1,Sep-2022,92022,19-09-2022 00:00,2022,MR C1,MR,Forecast
+Product R,Product R 23,23,Main Release,C3,Sep-2022,92022,29-09-2022 00:00,2022,MR C3,MR,Forecast
+Product R,Product R 23,23,Main Release,C5,Nov-2022,112022,30-11-2022 00:00,2022,MR C5,MR,Approved
+Product R,Product R 23,23.2,Feature Package,C3,Dec-2022,122022,21-12-2022 00:00,2022,FP C3,FP,Forecast
+Product R,Product R 23 [CNF],23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product R,Product R 23 [CNF],23,Main Release,C1,Sep-2022,92022,19-09-2022 00:00,2022,MR C1,MR,Approved
+Product R,Product R 23 [CNF],23,Main Release,C3,Sep-2022,92022,29-09-2022 00:00,2022,MR C3,MR,Forecast
+Product R,Product R 23 [CNF],23,Main Release,C5,Nov-2022,112022,30-11-2022 00:00,2022,MR C5,MR,Approved
+Product R,Product R 23 [CNF],23.2,Feature Package,C3,Dec-2022,122022,21-12-2022 00:00,2022,FP C3,FP,Approved
+Product S,Product S 22,22.5,Feature Package,C3,Apr-2022,42022,04-04-2022 00:00,2022,FP C3,FP,Forecast
+Product S,Product S 22,22.5,Feature Package,C5,May-2022,52022,30-05-2022 00:00,2022,FP C5,FP,Approved
+Product S,Product S 22,22.8,Feature Package,C3,Jul-2022,72022,01-07-2022 00:00,2022,FP C3,FP,Approved
+Product S,Product S 22 [CNF],22.5,Feature Package,C5,Jun-2022,62022,15-06-2022 00:00,2022,FP C5,FP,Approved
+Product S,Product S 22 [CNF],22.8,Feature Package,C3,Jul-2022,72022,01-07-2022 00:00,2022,FP C3,FP,Forecast
+Product S,Product S 22 [CNF],22.8,Feature Package,C5,Sep-2022,92022,15-09-2022 00:00,2022,FP C5,FP,Forecast
+Product S,Product S 22 [VNF],22.8,Feature Package,C5,Aug-2022,82022,30-08-2022 00:00,2022,FP C5,FP,Forecast
+Product S,Product S 23,23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Forecast
+Product S,Product S 23,23,Main Release,C3,Oct-2022,102022,21-10-2022 00:00,2022,MR C3,MR,Forecast
+Product S,Product S 23,23,Main Release,C5,Nov-2022,112022,30-11-2022 00:00,2022,MR C5,MR,Forecast
+Product S,Product S 23,23.2,Feature Package,C3,Dec-2022,122022,26-12-2022 00:00,2022,FP C3,FP,Forecast
+Product S,Product S 23 [CNF],23.2,Feature Package,C5,Feb-2023,22023,28-02-2023 00:00,2023,FP C5,FP,Approved
+Product S,Product S 23 [CNF],23.2,Feature Package,C3,Dec-2022,122022,26-12-2022 00:00,2022,FP C3,FP,Approved
+Product T,Product T 23,23,Main Release,C1,Apr-2022,42022,22-04-2022 00:00,2022,MR C1,MR,Forecast
+Product T,Product T 23,23,Main Release,C3,Oct-2022,102022,27-10-2022 00:00,2022,MR C3,MR,Approved
+Product T,Product T 23,23,Main Release,C5,Dec-2022,122022,15-12-2022 00:00,2022,MR C5,MR,Forecast
+Product U,Product U 22,22.5,Feature Package,C3,Apr-2022,42022,29-04-2022 00:00,2022,FP C3,FP,Approved
+Product U,Product U 22,22.5,Feature Package,C5,May-2022,52022,31-05-2022 00:00,2022,FP C5,FP,Forecast
+Product U,Product U 22,22.11,Feature Package,C3,Oct-2022,102022,28-10-2022 00:00,2022,FP C3,FP,Forecast
+Product U,Product U 22,22.11,Feature Package,C5,Nov-2022,112022,30-11-2022 00:00,2022,FP C5,FP,Forecast
+Product U,Product U 23,23.5,Feature Package,C5,May-2023,52023,31-05-2023 00:00,2023,FP C5,FP,Approved
+Product V,Product V 22,22.5,Feature Package,C3,Apr-2022,42022,29-04-2022 00:00,2022,FP C3,FP,Forecast
+Product V,Product V 22,22.5,Feature Package,C5,May-2022,52022,31-05-2022 00:00,2022,FP C5,FP,Forecast
+Product V,Product V 22,22.11,Feature Package,C3,Oct-2022,102022,28-10-2022 00:00,2022,FP C3,FP,Approved
+Product V,Product V 22,22.11,Feature Package,C5,Dec-2022,122022,02-12-2022 00:00,2022,FP C5,FP,Forecast
+Product V,Product V 23,23.5,Feature Package,C5,May-2023,52023,31-05-2023 00:00,2023,FP C5,FP,Approved
+Product W,Product W 17.1,17.1,Main Release,C3,May-2022,52022,31-05-2022 00:00,2022,MR C3,MR,Forecast
+Product W,Product W 17.1,17.1,Main Release,C5,Jun-2022,62022,29-06-2022 00:00,2022,MR C5,MR,Approved
+Product Y,Product Y 22.03,22.03,Main Release,C5,Dec-2022,122022,02-12-2022 00:00,2022,MR C5,MR,Forecast
+Product Z,Product Z 20,20,Main Release,C7,Aug-2022,82022,31-08-2022 00:00,2022,MR C7,MR,Approved
+Product Z,Product Z 20,20,Main Release,C8,Aug-2022,82022,31-08-2022 00:00,2022,MR C8,MR,Forecast
+Product Z,Product Z 20,20,Main Release,C10,Aug-2023,82023,31-08-2023 00:00,2023,MR C10,MR,Approved
+Product Z,Product Z 20,20,Main Release,C9,Oct-2022,102022,31-10-2022 00:00,2022,MR C9,MR,Approved
+Product Z,Product Z 22,FP1,Feature Package,C3,Sep-2022,92022,09-09-2022 00:00,2022,FP C3,FP,Forecast
+Product Z,Product Z 22,FP1,Feature Package,C5,Dec-2022,122022,09-12-2022 00:00,2022,FP C5,FP,Forecast
